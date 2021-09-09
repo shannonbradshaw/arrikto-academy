@@ -1,0 +1,15 @@
+site_name: Arrikto Academy
+
+theme:
+  name: material
+  logo: assets/arrikto-mark-white-900px.png
+  palette: 
+    primary: black
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+
+markdown_extensions:
+  - attr_list
+  - admonition
